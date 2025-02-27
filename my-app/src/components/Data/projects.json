@@ -1,0 +1,52 @@
+[
+  {
+    "key": 1,
+    "title": "GamePlan",
+    "imageSrc": "/assets/projects/GamePlan.png",
+    "description": "A computer vision project used for player and ball detection and their analysis.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NamanKarki-nbk/Game_Plan"
+  },
+  {
+    "key": 2,
+    "title": "Social Media App",
+    "imageSrc": "/assets/projects/SocialMedia.png",
+    "description": "It is th esocial media app developed using MERN stack for Islington College studeents FYP",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NamanKarki-nbk/Social-Media-App"
+  },
+  {
+    "key": 3,
+    "title": "Travel Booking",
+    "imageSrc": "/assets/projects/Travel.png",
+    "description": "It is a travel Booking App developed using MERN stack Taiwind CSS and TypeScript",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NamanKarki-nbk/TravelBooking"
+  },
+  {
+    "key": 4,
+    "title": "E-Commerce",
+    "imageSrc": "/assets/projects/ecom.png",
+    "description": "It is an E-Commerce app develpoed using React JS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NamanKarki-nbk/E-Commerce-MERN-app"
+  },
+
+  {
+    "key": 5,
+    "title": "GatiSunya",
+    "imageSrc": "/assets/projects/gatisunya.jpeg",
+    "description": "It is a parking management app made using MERN stack in the ASCOL hackfest by me and my team.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NamanKarki-nbk/E-Commerce-MERN-app"
+  },
+
+  {
+    "key": 6,
+    "title": "ChatApp",
+    "imageSrc": "/assets/projects/chat.png",
+    "description": "Working on it",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/NamanKarki-nbk/ChatApp"
+  }
+]
