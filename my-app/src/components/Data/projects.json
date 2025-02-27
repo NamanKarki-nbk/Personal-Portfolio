@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Travel Booking",
-    "imageSrc": "/assets/projects/Travel.png",
+    "imageSrc": "/assets/projects/travel.png",
     "description": "It is a travel Booking App developed using MERN stack Taiwind CSS and TypeScript",
     "demo": "https://www.example.com",
     "source": "https://github.com/NamanKarki-nbk/TravelBooking"
