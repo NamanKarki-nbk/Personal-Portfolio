@@ -26,6 +26,10 @@
     "title": "Express",
     "imageSrc": "skills/express.png"
   },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
 
   {
     "title": ".Net",
